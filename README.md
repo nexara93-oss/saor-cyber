@@ -76,3 +76,4 @@ Two reports are generated:
 git clone <repo>
 cd saqr
 chmod +x saqr.py
+python3 saqr.py <IP>
